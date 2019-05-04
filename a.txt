@@ -1,1 +1,4 @@
 s is the fir st commit in your mater fir merge
+
+
+this is the second commit in the master 
